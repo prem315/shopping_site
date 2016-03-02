@@ -1,0 +1,53 @@
+[
+	{
+		"id": "1",
+		"title": "Super",
+		"price": 1000,
+		"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, veniam.",
+		"posted": "2016-03-01",
+		"contact": {
+			"name": "John",
+			"phone": "123-456-789"
+		},
+		"categories":[
+			"Vehicles",
+			"Parts and Accessories"
+		],
+		"image": "http://www.louisianasportsman.com/classifieds/pics/p1358549934434943.jpg",
+		"views": 213
+	},
+	{
+		"id": "2",
+		"title": "SuperDuper",
+		"price": 1200,
+		"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, veniam.",
+		"posted": "2014-02-11",
+		"contact": {
+			"name": "Prem",
+			"phone": "125-556-989"
+		},
+		"categories":[
+		"Vehicles",
+		"Parts and Accessories"
+		],
+		"image": "http://www.louisianasportsman.com/classifieds/pics/p1358549934434943.jpg",
+		"views": 219
+	},
+	{
+		"id": "3",
+		"title": "Super",
+		"price": 1000,
+		"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, veniam.",
+		"posted": "2016-03-01",
+		"contact": {
+			"name": "John",
+			"phone": "123-456-789"
+		},
+		"categories":[
+		"Vehicles",
+		"Parts and Accessories"
+		],
+		"image": "http://www.louisianasportsman.com/classifieds/pics/p1358549934434943.jpg",
+		"views": 213
+	}
+]
